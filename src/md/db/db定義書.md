@@ -1,3 +1,6 @@
+# DB定義書
+## ER図
+https://github.com/Aso2001134/2021sys-design/blob/main/er.md
 ### 購入テーブル（d_purchase）
 |和名|属性名（カラム名）|型|PK|NN|FK|
 |:---|:---|:---|:---|:---:|:----:|
